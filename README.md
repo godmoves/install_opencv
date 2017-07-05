@@ -1,2 +1,2 @@
-# install_opencv
-install_opencv
+# install opencv
+use `bash install-opencv.sh` to install opencv automaticly.
